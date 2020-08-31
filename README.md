@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="72723.jpg" alt="bitmoji"> I'm Torie.
+
+📫 How to reach me: torie.cr@gmail.com
+
+toriecr.github.io
