@@ -15,8 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="72723.jpg" alt="bitmoji"> I'm Torie.
+I'm Torie.
 
-📫 How to reach me: torie.cr@gmail.com
+<img src="72723.jpg" alt="bitmoji"> 
 
-toriecr.github.io
+
+
+My original repo was @chinenra and that was for school projects.
+
+💬 Ask me about: Magic tricks. I know a couple above-average card tricks.
+
+📫  How to reach me: torie.cr@gmail.com
+
+😄 Pronouns: She/Her/Hers
+
+https://toriecr.github.io/
