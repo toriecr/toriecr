@@ -21,7 +21,7 @@ I'm Torie.
 
 
 
-My original repo was @chinenra and that was for old school projects that were full of immature test cases (that I may or may not have written myself...)
+My original repo was @chinenra and that was for old school projects that were full of immature test cases and commit messages (that I may or may not have written myself...)
 
 💬 Ask me about: Magic tricks. I know a couple above-average card tricks.
 
