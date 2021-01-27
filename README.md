@@ -21,12 +21,12 @@ I'm Torie.
 
 
 
-My original repo was @chinenra and that was for old school projects that were full of immature test cases and commit messages (that I may or may not have written myself...)
+Old github: @chinenra
 
-💬 Ask me about: Magic tricks. I know a couple above-average card tricks.
+🌱 I’m currently learning: GraphQL, strengthening React skills.
 
 📫  How to reach me: torie.cr@gmail.com
 
 😄 Pronouns: She/Her/Hers
 
-https://toriecr.github.io/
+https://toriecr.netlify.app/
