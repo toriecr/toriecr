@@ -20,13 +20,6 @@ I'm Torie.
 <img src="72723.jpg" alt="bitmoji"> 
 
 
-
-Old github: @chinenra
-
-🌱 I’m currently learning: GraphQL, strengthening React skills.
-
 📫  How to reach me: torie.cr@gmail.com
 
 😄 Pronouns: She/Her/Hers
-
-https://toriecr.netlify.app/
