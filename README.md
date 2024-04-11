@@ -21,5 +21,6 @@ I'm Torie.
 
 
 📫  How to reach me: torie.cr@gmail.com
+https://www.toriecr.com/
 
 😄 Pronouns: She/Her/Hers
